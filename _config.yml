@@ -1,7 +1,8 @@
 title: Siddhardha
 logo: /assets/img/logo.jpg
-description: 🌱 Aspiring AI/ML Developer | Data Science Newbie 🌱
-Hello! I'm just beginning my exciting journey into the world of AI and Machine Learning. This GitHub will showcase my learning process, experiments, and projects as I dive into data science and AI. From basic models to more advanced techniques, I’m eager to grow, learn, and share my progress here. Follow along as I explore the limitless possibilities of AI/ML!
-show_downloads: true
-google_analytics:
+description: Aspiring AI/ML Developer | Data Science Newbie 
+Hello! I'm just beginning my exciting journey into the world of AI and Machine Learning.
+This GitHub will showcase my learning process, experiments, and projects as I dive into data science and AI. 
+From basic models to more advanced techniques,
+I’m eager to grow, learn, and share my progress here. Follow along as I explore the limitless possibilities of AI/ML!
 theme: jekyll-theme-minimal
